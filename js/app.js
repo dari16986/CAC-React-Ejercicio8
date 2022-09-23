@@ -7,7 +7,7 @@ export default class Button extends React.Component {
         return ReactElement(
             'button',
             {},
-            'Super Boton'
+            'Boton hecho sin React Dev Environment'
         );
     }
 }
