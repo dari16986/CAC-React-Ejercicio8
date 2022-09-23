@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/CAC-React-Ejercicio8/build/static/css/main.3d55e146.css",
+    "main.js": "/CAC-React-Ejercicio8/build/static/js/main.41f26736.js",
+    "static/js/787.3ea93f1d.chunk.js": "/CAC-React-Ejercicio8/build/static/js/787.3ea93f1d.chunk.js",
+    "static/media/background_video.mp4": "/CAC-React-Ejercicio8/build/static/media/background_video.5922a60f6c02bcea49f1.mp4",
+    "static/media/efecto-de-sonido-golpe.mp3": "/CAC-React-Ejercicio8/build/static/media/efecto-de-sonido-golpe.651b7a23a5e978ad8395.mp3",
+    "static/media/logo.svg": "/CAC-React-Ejercicio8/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CAC-React-Ejercicio8/build/index.html",
+    "main.3d55e146.css.map": "/CAC-React-Ejercicio8/build/static/css/main.3d55e146.css.map",
+    "main.41f26736.js.map": "/CAC-React-Ejercicio8/build/static/js/main.41f26736.js.map",
+    "787.3ea93f1d.chunk.js.map": "/CAC-React-Ejercicio8/build/static/js/787.3ea93f1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d55e146.css",
+    "static/js/main.41f26736.js"
+  ]
+}
